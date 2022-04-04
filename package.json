@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "copy-webpack-plugin": "^10.2.4",
+    "openzeppelin-solidity": "2.3"
+  }
+}
