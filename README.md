@@ -1,4 +1,4 @@
-# StarNotary: Crypto Star Dapp on Ethereum  
+# StarNotary: Crypto Star DApp on Ethereum  
 - Truffle version: 4.1.14  
 - OpenZeppelin version: 2.3.0  
 - ERC-721 Token Name: WooKaiZen Token  
