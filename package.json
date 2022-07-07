@@ -1,6 +1,11 @@
 {
+  "type": "commonjs",
   "dependencies": {
     "copy-webpack-plugin": "^10.2.4",
+    "dotenv": "^16.0.1",
     "openzeppelin-solidity": "2.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
   }
 }
